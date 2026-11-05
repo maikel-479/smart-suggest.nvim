@@ -2,7 +2,9 @@
 
 A [blink.cmp](https://github.com/SagHen/blink.cmp) completion source that
 ranks "how does this line end?" suggestions inside your normal completion
-menu. Built for C and C++ first, because that is where the pain shows up.
+menu. It happens to be written and tested around C and C++ code, simply
+because that is what I worked in when trying the idea out. The design is
+language-agnostic.
 
 ## The problem it tries to solve
 
